@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 椎间盘突出自救
-categories: [herniated-dist] ,
+categories: [disk]
 description: 椎间盘突出的一些基本知识和康复训练。
 keywords: recovery
 mermaid: false
