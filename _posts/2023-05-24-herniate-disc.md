@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 椎间盘突出自救
-categories: [椎间盘突出, 康复] ,
+categories: [herniated-dist] ,
 description: 椎间盘突出的一些基本知识和康复训练。
-keywords: 康复
+keywords: recovery
 mermaid: false
 sequence: false
 flow: false
