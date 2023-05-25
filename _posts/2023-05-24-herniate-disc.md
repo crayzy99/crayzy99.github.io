@@ -1,4 +1,17 @@
-# 椎间盘突出自救
+---
+layout: post
+title: 椎间盘突出自救
+categories: [椎间盘突出, 康复] ,
+description: 椎间盘突出的一些基本知识和康复训练。
+keywords: 康复
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
+
 ## 原理
 椎间盘分为两部分：一部分是髓核，外面是一层纤维环。突出一般是指的髓核这一部分，突出后可能导致神经被压迫，疼痛传导到下肢坐骨神经。
 
